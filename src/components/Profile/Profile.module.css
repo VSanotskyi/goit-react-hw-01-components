@@ -1,0 +1,40 @@
+.profile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.avatar {
+    margin-bottom: 10px;
+}
+
+.name {
+}
+
+.tag {
+}
+
+.location {
+}
+
+.stats {
+    list-style: none;
+}
+
+.label {
+}
+
+.quantity {
+}
+
